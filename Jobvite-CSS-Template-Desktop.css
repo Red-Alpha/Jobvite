@@ -1,0 +1,15 @@
+/* ===== JOB LISTINGS PAGE  =================== */
+h1 a {
+    color: red;
+}
+h2 {
+    color: black;
+}
+h3 {
+    color: red;
+}
+.jv-job-list-name a {
+    width: 50%;
+    color: black;
+    font-weight: bold;
+}
