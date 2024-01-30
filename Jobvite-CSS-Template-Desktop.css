@@ -1,15 +1,136 @@
-/* ===== JOB LISTINGS PAGE  =================== */
-h1 a {
+
+
+/* ===== SITE LAYOUT =================== */
+.jv-page-container 	{
+    font-family: lato, arial, sans-serif;
+    color: #131e29;
+    font-size: 14px;
+ }
+
+
+ .jv-page-container a:hover {}	 
+
+
+ .jv-page-header .jv-wrapper {}
+
+.jv-page 			{}
+
+.jv-page-header h1 {}
+
+
+.jv-page-content 	{ }
+.jv-page-header 	{ }
+.jv-page-body 		{ }
+
+article.jv-page-body  {}
+
+h1.jv-logo {}
+
+.jv-page-header h1 a {
+    /* padding-left: 14%; */
     color: #ff3333;
 }
-h2 {
-    color: #000000;
+
+.jv-page-header h1 a:hover {
+    color: #131e29;
 }
-h3 {
-    color: #ff3333;
+
+.jv-page-header h1 a:visited {
+    color: #131e29;
 }
-.jv-job-list-name a {
-    width: 50%;
+
+
+.jv-wrapper 		{ }
+.jv-footer 			{ }
+
+
+
+
+
+
+
+/* ===== JOB LISTINGS PAGE  =================== */ 
+
+.jv-page-error 		{ }
+.jv-page-body h2 	{
+    color: #000000;}
+
+
+h3.h2 {
+    color: #ff3333;}
+
+
+h3,.h3 {
+    color: #ff3333;}
+
+.jv-job-list  		{
+    width: 100%;
+}
+
+ .jv-job-list-name a {
     color: #000000;
     font-weight: bold;
+ }	
+
+
+ .jv-job-list-name a:hover {
+    color: #ff3333;
+ }
+
+ .jv-job-list-name a:visited {}
+
+.jv-job-list th  	{ }
+.jv-job-list td  	{ }
+.jv-job-list .jv-job-list-name  		{
+    width: 50%;
 }
+.jv-job-list .jv-job-list-location  	{
+    font-style: italic;
+    text-align: right;
+}
+
+
+
+
+
+
+/* ========== JOB DETAILS PAGE =============== */ 
+
+h2.jv-header 	{}
+
+.jv-job-detail-meta,
+.jv-apply-meta {}
+
+
+.jv-button {}
+.jv-button-primary { }
+.jv-job-detail-description {}	
+
+.jv-current-openings 	{ }
+.jv-share-widget 		{ }
+
+.jv-job-detail-bottom-actions,
+.jv-apply-form-actions 	{ }
+
+.jv-job-detail-description h3, .h3 {}
+
+.jv-button-apply-later {}
+
+
+
+
+/* ========== APPLY PAGE ====================== */ 
+
+.jv-form 				{}
+.jv-apply-form 			{}
+.jv-form input {}	
+.jv-search-form 		{}
+
+
+h3#jv-resume-header {}
+
+.jv-apply-step 			{}
+.jv-apply-section 		{}
+.jv-step-header 		{ }	
+/* Section Title */
+.jv-required-label 		{}
