@@ -57,7 +57,9 @@ h1.jv-logo {}
 
 
 h3.h2 {
-    color: #ff3333;}
+    color: #ff3333;
+    font-size: 1.7em
+}
 
 
 h3,.h3 {
@@ -70,6 +72,7 @@ h3,.h3 {
  .jv-job-list-name a {
     color: #000000;
     font-weight: bold;
+    font-size: 16px
  }	
 
 
